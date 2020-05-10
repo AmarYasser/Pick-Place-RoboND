@@ -1,8 +1,8 @@
 [![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
 # Robotic arm - Pick & Place project
 
-# Work Report 
-Write-up.pdf (https://github.com/AmarYasser/Pick-Place-RoboND/blob/master/Write-up.pdf)
+### Work Report
+[Write-up.pdf](./Write-up.pdf)
 
 Make sure you are using robo-nd VM or have Ubuntu+ROS installed locally.
 
