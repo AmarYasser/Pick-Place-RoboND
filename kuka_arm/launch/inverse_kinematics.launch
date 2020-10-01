@@ -1,6 +1,10 @@
 <launch>
   <node name="trajectory_sampler" pkg="kuka_arm" type="trajectory_sampler">
     <!--set demo value="false" when using IK_server-->
+<<<<<<< HEAD
     <param name="demo" value="false" type="bool"/>
+=======
+    <param name="demo" value="true" type="bool"/>
+>>>>>>> 4576f97bc4f1cb41edd73d8812a26acf7d60f931
   </node>
 </launch>
